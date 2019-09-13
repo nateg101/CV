@@ -1,6 +1,6 @@
-## Your Name
+## Nat Elliott-Green
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a fullstack developer, a graduate from a top UK university and am currently studying at one of the most selective dev bootcamps. All this is backed by a 6 year career working as an energy analyst and supporting database development projects. I have a left a comfortable, varied and successful career to pursue the 'difficult' option, namely a career in software development. I have made this move because the tech industry is fast-paced, challenging and gives me the opportunity to solve problems on a daily basis.
 
 ## Skills
 
@@ -23,18 +23,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sep 2019 - Dec 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College (Oct 2009 - June 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Geology MSci
+- 2:1
+- Completed masters thesis using ArcGIS software to extract and visualise data.
 
 #### Any other qualifications
 
@@ -42,14 +42,15 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**ActionAid UK** (Feb 2018 - Aug 2019)    
+*Supporter Database & Operations Specialist*  
+* Database Implementation: Analysed and redesigned business processes related to a global child sponsorship program. Supported developers to design functionality requirements of a new database system, including a mobile application.
+* Managed  
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Clarksons Research** (Mar 2014 - Aug 2017)   
+*Senior Research Analyst /Research Analyst*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I really enjoy cricket, intensely cerebral documentaries, overly intense games of bananagrams and worrying that my past-times make me appear really boring to others.
