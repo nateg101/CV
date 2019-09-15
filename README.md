@@ -4,13 +4,17 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+### Process Redesign and Optimisation
 
-#### This Skill
+- I have always had an interest in taking processes, pulling them apart to make them as efficient and sensible as possible for users.
+- At ActionAid I redesigned business processes for the global child sponsorship scheme, which accounted for over 1/3 of income. The processes were inefficient, inflexible and incomplete which held back the organisation. Changing these processes has allowed the organisation to exploit digital technologies, reduce administrative work and improve testing of the child sponsorship fundraising product.  
 
-- Experience
-- Achievements
-- Evidence
+#### Communication and Teaching
+
+- I am a really great communicator of complex or challenging problems, able to break them down or use analogies to help people learn.
+- Have supported a number of colleagues in their professional development, aiding many of them to become key subject matter experts.
+- When at Clarksons Research I line managed a new hire, this involved teaching and explaining writing style, the mechanics of the various models and the intricacies of global energy trade. In order to explain global energy trade trends I broke down the various factors that go in to driving supply and demand and using relatable metaphors like making someone dinner. The result of this work meant that within a year this person was managing the team.
+
 
 #### Another Skill
 
@@ -33,23 +37,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Imperial College (Oct 2009 - June 2013)
 
 - Geology MSci
-- 2:1
+- Achieved a 2:1 grade
 - Completed masters thesis using ArcGIS software to extract and visualise data.
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
 **ActionAid UK** (Feb 2018 - Aug 2019)    
 *Supporter Database & Operations Specialist*  
-* Database Implementation: Analysed and redesigned business processes related to a global child sponsorship program. Supported developers to design functionality requirements of a new database system, including a mobile application.
-* Managed  
+- Database Implementation: Analysed and redesigned business processes related to a global child sponsorship program. Supported developers to design functionality requirements of a new database system, including a mobile application.
+- Managed and supported data collection processes for child sponsorship, including managing data transfers and supporting colleagues across the globe.
 
 **Clarksons Research** (Mar 2014 - Aug 2017)   
-*Senior Research Analyst /Research Analyst*  
-- Any experience relevent to software development
+*Senior Research Analyst/Research Analyst*  
+- Conducted research and analysis on global energy trade and the petroleum markets, developing and optimising trade and demand models that pulled in data from numerous sources.
+- Co-led redevelopment of database management and process for weekly updating of oil tanker timecharter records. I also provided key conceptual and database support in the recategorisation of oil tanker size segments to make them more market relevant.
+- Communicated research through presentations, reports and bespoke market analysis - particularly for those interested in raising finance such as bond-issuances or IPOs.
 
 ## Hobbies
 
