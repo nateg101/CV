@@ -15,16 +15,6 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 - Have supported a number of colleagues in their professional development, aiding many of them to become key subject matter experts.
 - When at Clarksons Research I line managed a new hire, this involved teaching and explaining writing style, the mechanics of the various models and the intricacies of global energy trade. In order to explain global energy trade trends I broke down the various factors that go in to driving supply and demand and using relatable metaphors like making someone dinner. The result of this work meant that within a year this person was managing the team.
 
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (Sep 2019 - Dec 2019)
