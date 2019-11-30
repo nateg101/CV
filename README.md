@@ -1,11 +1,13 @@
 <h1 align="center"> Nat Elliott-Green </h1>
 
 <div align="center">
+
 [Skills ](#skills) | 
 [Projects ](#projects) |
 [Experience ](#experience) | 
 [Education ](#education) | 
 [Interests ](#interests)
+
 </div>
 
 I am a fullstack developer, a graduate from a top UK university and am currently studying at one of the most selective dev bootcamps. This is backed by a 6 year career working as an energy analyst and supporting database development projects. I have a left a comfortable, varied and successful career to pursue the 'difficult' option, namely a career as a developer. I have made this move because the tech industry is fast-paced, challenging and gives me the opportunity to solve problems on a daily basis, all of which I really love.
