@@ -76,4 +76,4 @@ Airport Challenge | The first weekend challenge at Makers, see how far I've come
 
 ## Interests
 
-I really enjoy cricket, intensely cerebral documentaries, overly intense games of bananagrams and worrying that my past-times make me appear really boring to others.
+I really enjoy cricket, '*intensely cerebral*' (according to Netflix) documentaries, overly intense games of bananagrams and worrying that my past-times make me appear really boring to others.
