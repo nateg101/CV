@@ -1,4 +1,4 @@
-<h1 align="center">## Nat Elliott-Green</h1>
+<h1 align="center">Nat Elliott-Green</h1>
  <div align="center">
  
 [Skills ](#skills) | 
