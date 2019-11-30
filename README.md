@@ -35,7 +35,9 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 
 Project Name | Description | Tech Used | Process | Link
 --- | --- | --- | --- | ---
-Acebook-by-WinkyFace | Acebook was a two week challenge to recreate Facebook, working in small teams liaising with a client | Rails backend, React frontend, Heroku, Travis CI, RSpec, Cypress | A team of six members used agile processes in two day sprints across two weeks to produce our first Rails app. | [Github](https://github.com/nateg101/acebook-by-WinkyFace)
+Acebook by WinkyFace | Acebook was a two week challenge to recreate Facebook, working in small teams liaising with a client | Rails backend, React frontend, Heroku, Travis CI, RSpec, Cypress | A team of six members used agile processes in two day sprints across two weeks to produce our first Rails app. | [Github](https://github.com/nateg101/acebook-by-WinkyFace)
+Bowling Challenge | The Bowling Challenge was a weekend challenge from Makers Academy to create the logic and simple interface to score a tenpin bowling game | Javascript, JQuery, Jasmine | Worked solo TDD-ing and breaking down the aspects of the game, including complexities around the scoring of the final frame to build clean, simple code. | [Github](https://github.com/nateg101/bowling-challenge/tree/master/jasmine/src)
+Airport Challenge | The first weekend challenge at Makers, see how far I've come since the start of my coding career | Ruby, RSpec | TDD, Domain-modelling, and reminding myself to trust the process and break problems down into as small chunks as possible. | [Github](https://github.com/nateg101/airport_challenge)
 
 
 ## Experience
