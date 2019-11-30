@@ -23,6 +23,19 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 - Have supported a number of colleagues in their professional development, aiding many of them to become key subject matter experts.
 - When at Clarksons Research I line managed a new hire, this involved teaching and explaining writing style, the mechanics of the various models and the intricacies of global energy trade. In order to explain global energy trade trends I broke down the various factors that go in to driving supply and demand and using relatable metaphors like making someone dinner. The result of this work meant that within a year this person was managing the team.
 
+## Experience
+
+**ActionAid UK** (Feb 2018 - Aug 2019)    
+*Supporter Database & Operations Specialist*  
+- Database Implementation: Analysed and redesigned business processes related to a global child sponsorship program. Supported developers to design functionality requirements of a new database system, including a mobile application.
+- Managed and supported data collection processes for child sponsorship, including managing data transfers and supporting colleagues across the globe.
+
+**Clarksons Research** (Mar 2014 - Aug 2017)   
+*Senior Research Analyst/Research Analyst*  
+- Conducted research and analysis on global energy trade and the petroleum markets, developing and optimising trade and demand models that pulled in data from numerous sources.
+- Co-led redevelopment of database management and process for weekly updating of oil tanker timecharter records. I also provided key conceptual and database support in the recategorisation of oil tanker size segments to make them more market relevant.
+- Communicated research through presentations, reports and bespoke market analysis - particularly for those interested in raising finance such as bond-issuances or IPOs.
+
 ## Education
 
 #### Makers Academy (Sep 2019 - Dec 2019)
@@ -37,19 +50,6 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 - Geology MSci
 - Achieved a 2:1 grade
 - Completed masters thesis using ArcGIS software to extract and visualise data.
-
-## Experience
-
-**ActionAid UK** (Feb 2018 - Aug 2019)    
-*Supporter Database & Operations Specialist*  
-- Database Implementation: Analysed and redesigned business processes related to a global child sponsorship program. Supported developers to design functionality requirements of a new database system, including a mobile application.
-- Managed and supported data collection processes for child sponsorship, including managing data transfers and supporting colleagues across the globe.
-
-**Clarksons Research** (Mar 2014 - Aug 2017)   
-*Senior Research Analyst/Research Analyst*  
-- Conducted research and analysis on global energy trade and the petroleum markets, developing and optimising trade and demand models that pulled in data from numerous sources.
-- Co-led redevelopment of database management and process for weekly updating of oil tanker timecharter records. I also provided key conceptual and database support in the recategorisation of oil tanker size segments to make them more market relevant.
-- Communicated research through presentations, reports and bespoke market analysis - particularly for those interested in raising finance such as bond-issuances or IPOs.
 
 ## Interests
 
