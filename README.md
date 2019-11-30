@@ -1,4 +1,12 @@
-## Nat Elliott-Green
+<h1 align="center">## Nat Elliott-Green</h1>
+ <div align="center">
+ 
+[Skills ](#skills) | 
+[Projects ](#projects) |
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
+</div>
 
 I am a fullstack developer, a graduate from a top UK university and am currently studying at one of the most selective dev bootcamps. All this is backed by a 6 year career working as an energy analyst and supporting database development projects. I have a left a comfortable, varied and successful career to pursue the 'difficult' option, namely a career in software development. I have made this move because the tech industry is fast-paced, challenging and gives me the opportunity to solve problems on a daily basis.
 
@@ -43,6 +51,6 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 - Co-led redevelopment of database management and process for weekly updating of oil tanker timecharter records. I also provided key conceptual and database support in the recategorisation of oil tanker size segments to make them more market relevant.
 - Communicated research through presentations, reports and bespoke market analysis - particularly for those interested in raising finance such as bond-issuances or IPOs.
 
-## Hobbies
+## Interests
 
 I really enjoy cricket, intensely cerebral documentaries, overly intense games of bananagrams and worrying that my past-times make me appear really boring to others.
