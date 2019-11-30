@@ -12,6 +12,14 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 
 ## Skills
 
+### Key Coding Skills
+
+* Ruby, Rails, RSpec, Sinatra.
+* JavaScript, React, jQuery, Jasmine, Cypress.
+* Travis CI, Heroku, Git, Html, CSS.
+* Agile and XP values.
+* Consistent TDD and debugging processes.
+
 ### Process Redesign and Optimisation
 
 - I have always had an interest in taking processes, pulling them apart to make them as efficient and sensible as possible for users.
@@ -22,6 +30,13 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 - I am a really great communicator of complex or challenging problems, able to break them down or use analogies to help people learn.
 - Have supported a number of colleagues in their professional development, aiding many of them to become key subject matter experts.
 - When at Clarksons Research I line managed a new hire, this involved teaching and explaining writing style, the mechanics of the various models and the intricacies of global energy trade. In order to explain global energy trade trends I broke down the various factors that go in to driving supply and demand and using relatable metaphors like making someone dinner. The result of this work meant that within a year this person was managing the team.
+
+## Projects 
+
+Project Name | Description | Tech Used | Process | Link
+--- | --- | --- | --- | ---
+Acebook-by-WinkyFace | Acebook was a two week challenge to recreate Facebook, working in small teams liaising with a client | Rails backend, React frontend, Heroku, Travis CI, RSpec, Cypress | A team of six members used agile processes in two day sprints across two weeks to produce our first Rails app. | [Acebook-by-WinkyFace](https://github.com/nateg101/acebook-by-WinkyFace)
+
 
 ## Experience
 
