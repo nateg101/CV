@@ -35,7 +35,7 @@ I am a fullstack developer, a graduate from a top UK university and am currently
 
 Project Name | Description | Tech Used | Process | Link
 --- | --- | --- | --- | ---
-Acebook-by-WinkyFace | Acebook was a two week challenge to recreate Facebook, working in small teams liaising with a client | Rails backend, React frontend, Heroku, Travis CI, RSpec, Cypress | A team of six members used agile processes in two day sprints across two weeks to produce our first Rails app. | [Acebook-by-WinkyFace](https://github.com/nateg101/acebook-by-WinkyFace)
+Acebook-by-WinkyFace | Acebook was a two week challenge to recreate Facebook, working in small teams liaising with a client | Rails backend, React frontend, Heroku, Travis CI, RSpec, Cypress | A team of six members used agile processes in two day sprints across two weeks to produce our first Rails app. | [Github](https://github.com/nateg101/acebook-by-WinkyFace)
 
 
 ## Experience
