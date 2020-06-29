@@ -49,6 +49,12 @@ Airport Challenge | The first weekend challenge at Makers, see how far I've come
 
 ## Experience
 
+**Avado Learning** (Feb 2019 - Current)
+*Junior Learning Platform Developer*
+- Delivered features in new frontend structure using React, Typescript and Mobx.
+- Paired on challenging problems with colleagues to help expand knowledge and maintain pace of feature delivery.
+- Reviewed code in a timely fashion, providing detailed feedback and using it as an opportunity to expand my knowledge.
+
 **ActionAid UK** (Feb 2018 - Aug 2019)    
 *Supporter Database & Operations Specialist*  
 - Database Implementation: Analysed and redesigned business processes related to a global child sponsorship program. Supported developers to design functionality requirements of a new database system, including a mobile application.
